@@ -1,0 +1,28 @@
+
+
+
+==============Javascript Event============
+
+onkeyup()
+onkeydown()
+onclick()
+onchange()
+onblur()
+
+
+
+78 79
+
+78+79
+7879
+
+
+
+
+Input an age of a person and find out the eligiblity of voting of this person.
+
+input: 17
+output: He is not eligible for voting
+
+input: 78
+output: He is eligible for voting
